@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url(hh\ -\ Copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: fit-content;
+  }
+  header
+  {
+    text-decoration: none;
+    background-color: rgb(34, 34, 72);
+    height: 100px;
+    padding: 20px;
+    
+  }
+ h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+ }
+  h2{
+    color: rgb(19, 18, 18);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  ul li{
+    font-size: large;
+    display: inline;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+  }
+  ul li a{
+    color:rgb(206, 190, 190);
+    text-decoration: none;
+  }
+  #home img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+  }
+  #portfolio{
+    background-color: rgb(105, 134, 180);
+  }
+ 
+  .about {
+    max-width: 900px;
+    margin: auto;
+    border-radius: 4%;
+    background: rgb(104, 124, 159);
+    padding: 10px;
+  }
